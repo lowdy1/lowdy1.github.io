@@ -31,14 +31,14 @@ AReaL 团队的核心成员均来自于蚂蚁研究院强化学习实验室以�
 
 该项目目前尚未形成较大社区，亦暂时没有官方网站，暂通过 GitHub 以及所发表的论文分析团队情况。从 ReaLHF 时期开始，主要的代码提交者主要就为 MEI Zhiyu 和 FU Wei。吴翼为项目论文挂名最后一位，任清华大学交叉信息研究院助理教授，在知乎宣传项目，[如何评价开源训练框架 AReaL](https://www.zhihu.com/question/1890112252100703430)。推测 kdada 与 MEI Jun 为蚂蚁工作人员。
 
-| 姓名 | 角色 | 单位 |
-| ------- | ------- | ------- |
-| [吴翼](https://github.com/jxwuyi)  | 通讯作者  | 清华大学 上海期智研究院 边塞科技   |
-| [MEI Zhiyu](https://github.com/nuzant)  | 通讯作者 一作   | 清华大学 上海期智研究院   |
-| [FU Wei](https://github.com/garrett4wade)  | 二作 最活跃 Commitor   | 清华大学 上海期智研究院   | 
-| [kdada](https://github.com/kdada)  | 活跃开发者   | 杭州   | 
-| [MEI Jun](https://github.com/JacksonMei)  | 活跃开发者   | 蚂蚁集团(github) Momenta(LinkedIn 可能没更新)  | 
-| [XU Shusheng](https://github.com/xssstory)  | 活跃开发者   | \  | 
+| 姓名 | 角色 | 单位 | 邮箱 |
+| ------- | ------- | ------- | ------- |
+| [吴翼](https://github.com/jxwuyi)  | 通讯作者  | 清华大学 上海期智研究院 边塞科技   | jxwuyi@gmail.com |
+| [MEI Zhiyu](https://github.com/nuzant)  | 通讯作者 一作   | 清华大学 上海期智研究院   | meizy20@mails.tsinghua.edu.cn |
+| [FU Wei](https://github.com/garrett4wade)  | 二作 最活跃 Commitor   | 清华大学 上海期智研究院   | \ |
+| [kdada](https://github.com/kdada)  | 活跃开发者   | 杭州   | me@imkira.com |
+| [MEI Jun](https://github.com/JacksonMei)  | 活跃开发者   | 蚂蚁集团(github) Momenta(LinkedIn 可能没更新)  | mjautoman@163.com |
+| [XU Shusheng](https://github.com/xssstory)  | 活跃开发者   | \  | xssstory@gmail.com |
 
 
 ## 社区运作方式
@@ -47,6 +47,8 @@ AReaL 团队的核心成员均来自于蚂蚁研究院强化学习实验室以�
 
 文档：团队于 2025/04/27 发布项目[官方文档](https://deepwiki.com/inclusionAI/AReaL)，详细介绍了项目代码架构。
 
-## 昇腾接入方式
+AReaL 团队目前计划以后的稳步发展以及进行稳定进行版本发布，未来的工作开展方向主要包括：
 
-有待进一步研究
+系统方面：支持强化学习中 coding problems，异步生成与强化学习训练，分布式训练优化，Expert Parallel 和 Zero-Bubble Pipeline 等
+
+算法方面：完成 32 B 的模型 recipes，样本高效的多任务强化学习算法，等
