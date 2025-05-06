@@ -38,7 +38,7 @@ AReaL 团队的核心成员均来自于蚂蚁研究院强化学习实验室以�
 | [FU Wei](https://github.com/garrett4wade)  | 二作 最活跃 Commitor   | 清华大学 上海期智研究院   | \ |
 | [kdada](https://github.com/kdada)  | 活跃开发者   | 杭州   | me@imkira.com |
 | [MEI Jun](https://github.com/JacksonMei)  | 活跃开发者   | 蚂蚁集团(github) Momenta(LinkedIn 可能没更新)  | mjautoman@163.com |
-| [XU Shusheng](https://github.com/xssstory)  | 活跃开发者   | \  | xssstory@gmail.com |
+| [XU Shusheng](https://github.com/xssstory)  | 活跃开发者   | 清华大学 | xssstory@gmail.com |
 
 
 ## 社区运作方式

@@ -178,7 +178,7 @@ model worker
 - 处理参数同步
 - 回应 master 请求
 
-分布式执行流在 Controller 启动 MasterWorker 和 ModelWorkers时开始，主要进行
+分布式执行流在 Controller 启动 MasterWorker 和 ModelWorkers 时开始，主要进行
 - 建立不同 workers 之间的联系
 - 初始化 model backends
 - 加载数据集
